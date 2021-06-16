@@ -1,6 +1,6 @@
 
 ```
-git clone https://github.com/Taildh/simple_crud_admin_grid.git
+git clone https://github.com/Taildh/magento2_crud_admin_grid.git
 ```
 
 change directory name to app/code/Tai/ProductLabel
