@@ -61,7 +61,7 @@ class Save extends \Tai\ProductLabel\Controller\Adminhtml\Label
         if (isset($data['image'][0]['name'])) {
             $data['image'] = $data['image'][0]['name'];
         } else {
-            $data['image'] = null;
+            $data['image'] = "";
         }
         return $data;
     }
