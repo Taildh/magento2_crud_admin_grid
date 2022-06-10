@@ -1,5 +1,5 @@
 {
-    "name": "admin/magento2_crud_admin_grid",
+    "name": "taildh/magento2_crud_admin_grid",
     "type": "project",
     "require": {
         "#": "#"
