@@ -1,0 +1,19 @@
+{
+    "name": "admin/magento2_crud_admin_grid",
+    "type": "project",
+    "require": {
+        "#": "#"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Magento2CrudAdminGrid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taildh",
+            "email": "ledinhhuutaii@gmail.com"
+        }
+    ]
+}
